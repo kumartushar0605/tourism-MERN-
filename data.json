@@ -1,0 +1,87 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "jalmandir",
+      "description": "Jalmandir is situated in Pawapuri, Bihar. Jalmandir has been revered highly by Jain devotees as it is believed that it is the place where Lord Mahavira breathed his last in 500 BCE",
+      "url": "https://reactone-nine.vercel.app",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/jalmandir-pawapuri.jpg",
+      "img":[
+        {
+          "imgSrc":"https://cdn.pixabay.com/photo/2024/02/19/08/28/ballet-8582841_1280.jpg"
+        },
+        {
+           "imgSrc":"https://cdn.pixabay.com/photo/2024/02/22/12/02/horse-8590007_1280.jpg"
+        },
+        {
+          "imgSrc":"https://cdn.pixabay.com/photo/2024/02/21/08/17/ai-generated-8587017_1280.jpg"
+        }
+        
+      ]
+    },
+
+    {
+      
+      "title": "nalanda",
+      "description": "The site is located about 95 kilometres southeast of Patna near the town of Bihar Sharif, and was a centre of learning from the fifth century CE to1200 CE.",
+      "imgSrc": "https://nalandauniversity.files.wordpress.com/2011/03/nalanda_university.jpg"
+    },
+   
+
+    {
+    
+      "title": "Bodh gaya",
+      "description":"Bodh Gaya: Where Buddha found enlightenment, inviting you to discover inner peace and spiritual awakening.",
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/5/57/Great_Buddha_Statue%2C_Bodh_Gaya.jpg"
+    },
+    {
+    
+      "title": "golghar",
+      "description": "The Golghar has a historical significance as it was built to counter and combat the great famines in Bengal and Bihar that occurred in 1770.",
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/Golghar_%E0%A5%AA.jpg"
+    },
+    {
+    
+      "title": "rajgir",
+      "description": "Rajgir, Bihar, is a historically significant town, once the capital of the Magadha Empire. It's revered by Buddhists for its association with Lord Buddha, who meditated and preached here. Visitors come to experience the spiritual ambiance and take dips in the therapeutic hot springs. The town boasts ancient ruins like Rajgir Fort and Venuvana Vihara. ",
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Vishwa_Shanti_stupa.jpg"
+    },
+    {
+    
+      "title": "munger",
+      "description": "Dubbed as the seat of Bihar School of Yoga, Munger is yet another place that is popular amongst the tourists in Bihar. The history of Munger dates back to Aryans, who called Munger the ‘Midland’ for their settlement. For yoga buffs, Munger is not an unknown name, thus we can expect a large foreign crowd thronging this place. The present day Munger is a twin city, which comprises of Munger and Jamalpur.",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/munger-temple.jpg"
+    },
+    {
+      
+      "title": "vaishali",
+      "description": "Vaishali is an important archaeological site that was once the capital city of Licchavi rulers. Vaishali earned fame as a birthplace of last Jain Tirthankar Lord Mahavira. It is believed that Mahavira was born and brought up in 6th century BCE in Kundalagram of Republic of Vaishali. Another major event this place was a witness to was the last sermon of Buddha in 483 BCE. Vaishali was a prosperous kingdom during the time of Buddha.",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/vaishali-ashoka-lion-pillar-stuba.jpg"
+    },
+
+    {
+      
+      "title": "Patna",
+      "description": "Situated on the southern bank of Ganga, Patna is the largest city of Bihar. Better known as Patliputra in ancient India, the city is also believed to be the one of the oldest continuously inhabited cities in the world. Patna is a pilgrimage for Sikh devotees as it is reckoned to be the birthplace of last Sikh Guru, Guru Gobind Singh. The city flourished in the period of Haryanka, Nanda, Mauryan, Shunga, Gupta and Pala earned fame all across India.",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/patna-buddha-smriti-park.jpg"
+    }
+    , {
+      
+      "title": "Vikramshila Ruins, Bhagalpur ",
+      "description": "Reckoned to be one of the two important Buddhist learning centres in Bihar, Vikramshila was established by King Dharampala. It is believed that the king was displeased with the depleting quality of Nalanda, thus he decided to establish another better institute for learning. Vikramshila now lies in ruins but renovation work has begun now. ",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/vikramshila-ruins-bhagalpur.jpg"
+    }
+    , {
+      
+      "title": "Kesaria Stupa, Kesaria (East Champaran)",
+      "description": "Reckoned to be the tallest and largest Buddha Stupa in India, Kesaria Stupa is one of the major attractions of Bihar tourism. The stupa is believed to have been built between 200 and 750 AD under the rule of Raja Chakravarti. With a height of 104 feet, it is an imposing structure that must be visited during a visit to Bihar",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/kesaria-stupa-kesaria.jpg"
+    }
+    , {
+      
+      "title": "Thai Monastery, Bodhgaya:",
+      "description": "Thai Monastery is another incredible gem from the treasure chest of Bihar. Established in 1957 with the help of Thailand’s government and Indian Buddhist monks, this temple is a must-see in Bodhgaya. Made in typical architecture style of Thailand, this temple reflects the culture and traditions of Thailand",
+      "imgSrc": "https://www.tourmyindia.com/blog//wp-content/uploads/2015/08/thai-monastery.jpg"
+    }
+  ]
+}

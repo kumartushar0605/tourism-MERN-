@@ -1,0 +1,19 @@
+#worrkon{
+    background-color: rgb(93, 112, 144);
+    margin-top: 5%;
+    border-radius: 30px;
+    height: 350px;
+    width: 700px;
+    transform: translateX(-15%);
+    font-family: cursive;
+    color: black;
+
+}
+#imgm{
+    border-radius: 30px;
+    height: 250px;
+    width: 700px;
+}
+#textt{
+    margin-left: 10px;
+}

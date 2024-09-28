@@ -1,0 +1,105 @@
+#workon{
+    background-color: rgb(93, 112, 144);
+    margin-top: 8%;
+    overflow-y: scroll;
+    
+    border-radius: 30px 0 0 30px;
+    height: 340px;
+    width: 380px;
+    transform: translate(3%,-4.6%);
+    font-family: cursive;
+    color: black;
+    border: 1px solid black;
+    animation: chan 4s infinite;
+    /* scroll-behavior: smooth; */
+    /* overflow: visible; */
+    
+
+}
+#workon::-webkit-scrollbar{
+    width: 8px; 
+}
+
+#workon::-webkit-scrollbar-thumb {
+    background-color: #888; /* Color of the thumb */
+    border-radius: 400px; /* Border radius of the thumb */
+  }
+  
+  #workon::-webkit-scrollbar-thumb:hover {
+    background-color: #555; /* Color of the thumb on hover */
+  }
+  
+  #workon::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Color of the track */
+  }
+#workonn{
+    background-color: rgb(93, 112, 144);
+    margin-top: 24%;
+    /* overflow: scroll; */
+    border-radius: 30px;
+    height: 380px;
+    width: 380px;
+    transform: translateX(-50%);
+    font-family: cursive;
+    color: black;
+    /* scroll-behavior: smooth; */
+    /* overflow: visible; */
+    
+
+}
+#img{
+    border-radius: 30px;
+    height: 250px;
+    width: 700px;
+}
+#text{
+    margin-left: 10px;
+}
+.btn{
+    border: 1px solid black;
+    
+    animation: chan 4s infinite;
+    
+
+}
+@keyframes chan {
+    0%{border-color: red;}
+    25%{border-color:#bf55ec;}
+    50%{border-color: white;}
+    75%{border-color: rgb(85, 241, 46);}
+    100%{border-color:#55dfec;}
+}
+.bbtn{
+    border: 1px solid black;
+    /* height: 100%; */
+    width: 370px;
+
+}
+.ccarosel{
+    transform: translate(-23%,25%);
+    
+}
+#workk{
+    height: 58.3vh;
+    background-color: rgb(93, 112, 144);
+    border: 5px solid black;
+    font-family: cursive;
+    font-size: small;
+    color: black;
+    width: 90vh;
+    transform: translate(1%,6%);
+    border-radius: 0 30px 30px 0;
+}
+.imgcaroo{
+    height: 40vh;
+    /* width: 90vw; */
+    /* border: 5px solid black; */
+    
+    /* border-radius: 30px; */
+    border-radius: 0 30px 30px 0;
+    
+
+}
+
+
+

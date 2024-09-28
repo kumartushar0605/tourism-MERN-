@@ -1,0 +1,44 @@
+.im{
+    width: 40vmax;
+        height: 30vmax;
+        background-color: rgb(231, 226, 226);
+        position: absolute;
+        z-index: -1;
+        border-radius: 40%; 
+        transform: translate(130%,5%);
+        
+        
+
+}
+ .img{
+        width: 40vmax;
+        object-fit: contain;
+        height: 30vmax;
+      }
+.icon{
+    animation: change 5s infinite  ;
+    
+    
+}
+@keyframes change {
+    0%{color: red;}
+    25%{color:#bf55ec;}
+    50%{color: white;}
+    75%{color: rgb(85, 241, 46);}
+    100%{color:#55dfec;}
+}
+.heading{
+    animation: change 5s infinite  ;
+   font-size: 310%;
+   margin-top: 5%;
+   font-family: cursive;
+  
+}
+.div{
+    animation: up 0.7s linear infinite  alternate ;
+}
+@keyframes up {
+    to{
+        transform: translateY(-10px);
+    }
+}

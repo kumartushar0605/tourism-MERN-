@@ -1,0 +1,66 @@
+.box{
+    width: 38vw;
+    height: 11vh;
+
+    /* background-color: rgb(206, 166, 246); */
+    border-radius: 10px;
+    border: 1px solid black;
+    animation: border 5s infinite;
+}
+@keyframes border {
+    0%{border-color: red;}
+    25%{border-color:#bf55ec;}
+    50%{border-color: white;}
+    75%{border-color: rgb(85, 241, 46);}
+    100%{border-color:#55dfec;}
+    60%{
+           border-radius: 50px;
+    }
+    
+}
+.text{
+    transform: translate(-130%,2%);
+    font-family: cursive;
+    color: black;
+    /* font-style: italic; */
+    font-size: medium;
+    
+}
+.map{
+   height: 110%; 
+   width: 100vw;
+   transform: translateX(5%);
+    
+}
+
+.mapbox{
+    /* background-color: red; */
+    transform: translateY(4%);
+    height: 70%;
+    
+    width: 98vw;
+    /* background-color: red; */
+
+}
+.carosel{
+    transform: translateX(70%);
+}
+#work{
+    height: 53vh;
+    background-color: rgb(93, 112, 144);
+    border: 5px solid black;
+    font-family: cursive;
+    font-size: small;
+    color: black;
+    width: 90vh;
+    transform: translate(1%,6%);
+    border-radius: 30px;
+}
+
+.imgcaro{
+    height: 40vh;
+    width: 20%;
+    border-radius: 30px;
+    
+
+}

@@ -15,13 +15,12 @@ const Footer = () => {
       <Stack direction={["column", "row"]} h={"full"} alignItems={"center"}>
         <VStack w={"full"} alignItems={["center", "flex-start"]}>
           <Text fontWeight={"bold"}>About Us</Text>
-          <Text
+          <Text textTransform={"uppercase"}
             fontSize={"sm"}
             letterSpacing={"1px"}
             textAlign={["center", "left"]}
           >
-            We are the best crypto trading app in India, we provide our guidance
-            at a very cheap price.
+          We are here to explore with you , The bueaty of bihar
           </Text>
         </VStack>
 
